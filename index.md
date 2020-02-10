@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hello internet!
 
 ## Welcome to GitHub Pages
