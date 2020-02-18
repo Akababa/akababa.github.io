@@ -13,7 +13,7 @@ Finally, I've set myself the goal of making each blog post longer than the avera
 
 <center>
    <figure>
-       <img src="/images/iconfinder_hacker_news_386720.png" width="150px" height="150px">
+       <img src="/images/iconfinder_hacker_news_386720.svg" width="150px" height="150px">
    </figure>
     <figcaption> Anyone have a less boxy HN logo? </figcaption>
 </center>
